@@ -17,12 +17,12 @@ const pive_cellek = [
     {
         id: 4,
         name: "Brevel",
-        price: "",
+        price: "2.00",
     },
     {
         id: 5,
         name: "Brevel (filtrsiz)",
-        price: "",
+        price: "2.50",
     },
     {
         id: 6,
